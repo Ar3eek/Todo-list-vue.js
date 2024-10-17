@@ -1,3 +1,22 @@
+![Alt text](./src/assets/todo.png)                   ![Alt text](./src/assets/Todo2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # **Vite + VUE + Tailwind CSS boilerplate**
 Why Vite? It is a next generation frontend tooling with minimal config preparing to big one Webpack. It also includes HRM for CSS and JS, which speeds up the development process. If you want to know more about Vite go to [official site.](https://vitejs.dev/)
 
