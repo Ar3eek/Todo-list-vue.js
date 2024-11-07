@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<p>DUPSKO</p>
+
 
 
 </template>
